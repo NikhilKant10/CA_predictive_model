@@ -9,7 +9,7 @@ The project integrates advanced machine learning techniques and geospatial analy
 ## Data Overview
 
 ### Data Sources
-The analysis uses a combination of wildfire, climate, and vegetation datasets for the regions of focus: California, Amazon, and Queensland.
+The analysis uses a combination of wildfire, climate, and vegetation datasets for the regions of focus: California, Amazon, and Queensland. The datasets were sourced from NASA's official website.
 
 ## Wildfire Data:
 Date and time of wildfire ignition and containment.
